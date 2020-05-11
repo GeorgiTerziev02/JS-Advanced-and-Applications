@@ -40,3 +40,5 @@ class StringBuilder {
     }
   }
   
+
+  module.exports = StringBuilder;

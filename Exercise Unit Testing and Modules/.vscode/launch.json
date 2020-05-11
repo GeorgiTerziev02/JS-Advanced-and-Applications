@@ -19,6 +19,7 @@
                 "${workspaceFolder}/charLookup.tests",
                 "${workspaceFolder}/mathEnforcer.tests",
                 "${workspaceFolder}/string-builder.tests",
+                "${workspaceFolder}/paymentPackage.tests",
             ],
             "internalConsoleOptions": "openOnSessionStart",
             "skipFiles": [
